@@ -1,0 +1,16 @@
+header{
+    background-color: mediumvioletred;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ul{
+        display: flex;
+        width: 60vw;
+        justify-content: space-around;
+        color: white;
+        list-style: none;
+        cursor: pointer;
+    }
+    
+}
